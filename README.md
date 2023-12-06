@@ -6,3 +6,5 @@
 - [Day 2 - Golang](./day2)
 - [Day 3 - JavaScript](./day3)
 - [Day 4 - Lua](./day4)
+- [Day 5 - Dart](./day5)
+- [Day 6 - Python](./day6)
