@@ -8,3 +8,4 @@
 - [Day 4 - Lua](./day4)
 - [Day 5 - Dart](./day5)
 - [Day 6 - Python](./day6)
+- [Day 7 - Kotlin](./day7)
