@@ -9,3 +9,4 @@
 - [Day 5 - Dart](./day5)
 - [Day 6 - Python](./day6)
 - [Day 7 - Kotlin](./day7)
+- [Day 8 - Java](./day8)
